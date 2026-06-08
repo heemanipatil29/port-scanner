@@ -6,6 +6,18 @@ no.of week:1 week
 
 project name: PORT SCANNER 
 
+project scope:                         
+1) Detects open ports on a target system.
+2) Helps identify security vulnerabilities.
+3) Displays running network services (HTTP, FTP, SSH, etc.).
+4) Improves network monitoring and management.
+5) Provides fast and automated port scanning.
+6) Easy-to-use web-based interface.
+Generates scan reports for documentation.
+7) Useful for cybersecurity learning and practice.
+8) Helps administrators troubleshoot network issues.
+9) Demonstrates practical skills in Python, Flask, HTML, and Networking.
+
 home page
 <img width="1908" height="1024" alt="image" src="https://github.com/user-attachments/assets/63620794-3c1a-42d6-bd0d-3807d72d408d" />
 entring start and end port
