@@ -1,3 +1,7 @@
+intern id: CITS2258
+full name: Heemani Shailesh Patil 
+no.of week:1 week
+project name: PORT SCANNER 
 home page
 <img width="1908" height="1024" alt="image" src="https://github.com/user-attachments/assets/63620794-3c1a-42d6-bd0d-3807d72d408d" />
 entring start and end port
